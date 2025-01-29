@@ -1,3 +1,6 @@
+![Homepage interface](analysis/static/analysis/homepage.png)
+
+
 # Spaceship Titanic Transport Prediction
 
 ## Description

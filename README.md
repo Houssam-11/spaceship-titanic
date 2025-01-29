@@ -1,4 +1,4 @@
-![Homepage interface](spaceship.jpg)
+<img src="spaceship.jpg" alt="Homepage interface" width="300" />
 
 
 # Spaceship Titanic Transport Prediction

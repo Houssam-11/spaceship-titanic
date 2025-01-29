@@ -7,11 +7,11 @@
 This project develops a predictive model using machine learning to determine which passengers aboard the fictional Spaceship Titanic will be transported to an alternate dimension. The model is built with Python, utilizing libraries such as Pandas, Scikit-Learn, and Matplotlib for data manipulation, machine learning, and visualization.
 
 ## Installation
-To run this project, follow these steps:
+To run this project :
 1. Clone the repository:
-git clone https://github.com/Houssam-11/spaceship-titanic.git
-2. Install required Python packages:
-pip install -r requirements.txt
+    ```bash
+    git clone https://github.com/Houssam-11/spaceship-titanic.git
+    ```
 
 ## Usage
 Navigate to the project directory and run each cell in the "app.ipynb" notebook to execute the model training and evaluation scripts.

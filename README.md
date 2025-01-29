@@ -6,7 +6,7 @@ This project develops a predictive model using machine learning to determine whi
 ## Installation
 To run this project, follow these steps:
 1. Clone the repository:
-git clone https://github.com/yourusername/spaceship-titanic-prediction.git
+git clone https://github.com/Houssam-11/spaceship-titanic.git
 2. Install required Python packages:
 pip install -r requirements.txt
 
